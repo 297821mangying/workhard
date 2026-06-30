@@ -22,5 +22,9 @@ for the homework
 
 \- ✅ 8子图完整可视化处理流程
 
+系统要求
 
+| MATLAB版本 | R2023b 或更高版本 |
+
+| 工具箱 | Image Processing Toolbox |
 
